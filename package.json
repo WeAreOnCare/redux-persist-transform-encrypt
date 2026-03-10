@@ -1,5 +1,5 @@
 {
-  "name": "@nhkeers/redux-persist-transform-encrypt",
+  "name": "@weareoncare/redux-persist-transform-encrypt",
   "version": "6.0.1",
   "description": "Encrypt your Redux store.",
   "type": "module",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickkeers/redux-persist-transform-encrypt.git"
+    "url": "git+https://github.com/WeAreOnCare/redux-persist-transform-encrypt.git"
   },
   "keywords": [
     "redux",
@@ -31,9 +31,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nickkeers/redux-persist-transform-encrypt/issues"
+    "url": "https://github.com/WeAreOnCare/redux-persist-transform-encrypt/issues"
   },
-  "homepage": "https://github.com/nickkeers/redux-persist-transform-encrypt#readme",
+  "homepage": "https://github.com/WeAreOnCare/redux-persist-transform-encrypt#readme",
   "files": [
     "lib/",
     "index.d.ts",
